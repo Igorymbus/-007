@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Конвершион\Конвершион\bin\Debug\net7.0\Конвершион.exe
+C:\Users\user\source\repos\Конвершион\Конвершион\bin\Debug\net7.0\Конвершион.deps.json
+C:\Users\user\source\repos\Конвершион\Конвершион\bin\Debug\net7.0\Конвершион.runtimeconfig.json
+C:\Users\user\source\repos\Конвершион\Конвершион\bin\Debug\net7.0\Конвершион.dll
+C:\Users\user\source\repos\Конвершион\Конвершион\bin\Debug\net7.0\Конвершион.pdb
+C:\Users\user\source\repos\Конвершион\Конвершион\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.AssemblyInfo.cs
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.csproj.CopyComplete
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.dll
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\refint\Конвершион.dll
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.pdb
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\Конвершион.genruntimeconfig.cache
+C:\Users\user\source\repos\Конвершион\Конвершион\obj\Debug\net7.0\ref\Конвершион.dll
